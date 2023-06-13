@@ -66,32 +66,5 @@
      "address": "Jl. Raya Rengel No.155, Dusun Purboyo Mayang, Rengel, Kec. Rengel, Kabupaten Tuban, Jawa Timur 62371",
      "phone": "0813-3532-7319",
      "image": "https://huluhilir.com/wp-content/uploads/2022/03/gua-ngerong.jpg" }
-  ],
-  "gallery": [
-    { "id": 101, 
-     "name": "Batik Gedog", 
-     "image": "https://cdn.tatlerasia.com/indonesiatatler/images/i/20190621150909-gedog-motifbatik_resized_772x406.jpg" },
-    { "id": 102, 
-     "name": "Dumbek", 
-     "image": "https://nasikotaktasneem.com/wp-content/uploads/2022/06/dumbek.jpg" },
-    { "id": 103, 
-     "name": "Ampo", 
-     "image": "https://cdn.idntimes.com/content-images/community/2021/01/fromandroid-59b17f9835ae77abd96bb3cbc5137c1b_600x400.jpg" },
-    { "id": 104, 
-     "name": "Upacara Sedekah Laut", 
-     "image": "https://kabartuban.com/wp-content/uploads/2023/01/tradisi-tuban.jpeg" },
-    { "id": 105, 
-     "name": "Tradisi Sedekah Bumi", 
-     "image": "https://ngino-semanding.desa.id/desa/upload/artikel/sedang_1652410085_IMG-20220306-WA0051.jpg" },
-    { "id": 106, 
-     "name": "Thak Thakan", 
-     "image": "https://kabartuban.com/wp-content/uploads/2023/01/kesenian-thak-thakan-dan-ongkek.jpeg" },
-    { "id": 107, 
-     "name": "Ongkek", 
-     "image": "https://3.bp.blogspot.com/-WfE3HK-uz90/T04zaBEGZKI/AAAAAAAAAA0/pH4KUq7o3OA/s1600/bbb.jpg" },
-    { "id": 108, 
-     "name": "Legen", 
-     "image": "https://tubankab.go.id/files/2021-07/whatsapp-image-2021-07-13-at-12.47.35.jpeg" }
-  ]
-  
+  ] 
 }
