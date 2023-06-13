@@ -33,6 +33,7 @@
      "rating": "4.2",
      "address": "33V6+R6M, Semanding, Jarkali, Gedongombo, Kec. Tuban, Kabupaten Tuban, Jawa Timur 62317",
      "phone": " 0858-5280-3137",
+     "deskription": "Goa Akbar  merupakan salah satu objek wisata goa alami yang terletak di kecamatan Semanding, Tuban, Jawa Timur. Goa ini unik dikarenakan tidak seperti goa-goa pada umumnya yang terletak di pinggiran kota, goa ini terletak di tengah kabupaten Tuban. Objek wisata ini terletak di jalan Semarang-Surabaya, tepatnya di belakang Pasar Baru Tuban.",
      "image": "https://i.ytimg.com/vi/ujonPykjHks/maxresdefault.jpg" },
     
     { "id": 5, 
@@ -41,6 +42,7 @@
      "rating": "4.4",
      "address": "Jl. Raya Mulyoagung, Sawah, Mulyoagung, Kec. Singgahan, Kabupaten Tuban, Jawa Timur 62361",
      "phone": "0821-4314-8939",
+     "deskription": "Air Terjun Nglirip merupakan wisata Tuban yang terkenal dengan pesona keindahan kolam airnya yang menyajikan warna hijau tosca, membuat kagum setiap mata yang memandang. Air Terjun Nglirip memiliki nama lengkap Air Terjun Putri Nglirip. Dari tahun ke tahun, pembenahan dilakukan oleh pihak pengelola, dan masyarakat, demi menyuguhkan kenyamanan, dan keamanan bagi pengunjung yang datang.",
      "image": "https://www.nativeindonesia.com/foto/air-terjun-nglirip/Cantiknya-Air-Terjun-Nglirip.jpg" },
     
     { "id": 6, 
@@ -49,6 +51,7 @@
      "rating": "4.4",
      "address": "6XM9+M6W, Remen, Kec. Jenu, Kabupaten Tuban, Jawa Timur 62352",
      "phone": "0812 4954 8615",
+      "deskription" : "INDONESIA bukan hanya Bali dan Lombok. Pesisir lain di Nusantara tak kalah indahnya. Salah satunya, Pantai Remen, Tuban, Jawa Timur  Pantai ini menawarkan wisata pasir putih yang bersih. Berlibur di pantai ini terasa lengkap manakala ditemani oleh air laut nan biru dan rindangnya pohon cemara. Tak hanya itu. Selain padang pasir putih yang indah, di sebelah pantai juga terdapat kolam air yang cukup luas. Di sisini, wisatawan bisa bermain dengan perahu kecil yang semakin menambah keseruan berlibur.",
      "image": "https://wisato.id/wp-content/uploads/2022/06/2017-02-06-scaled.jpg" },
     
     { "id": 7, 
@@ -57,6 +60,7 @@
      "rating": "4.8",
      "address": "4347+2G4, Jl. Bonang, Kutorejo, Kec. Tuban, Kabupaten Tuban, Jawa Timur 62311",
      "phone": "+62356322657",
+     "deskription": "Masjid Agung Tuban dibangun pada awal penyebaran agama Islam di Kota Tuban. Masjid tersebut memiliki nilai-nilai sejarah dan fungsi keberagamaan pada masa awal penyiaran agama Islam, namun kini telah mengalami perubahan yang cukup signifikan sebagai Benda Cagar Budaya (BCB). Penelitian Masjid Agung Tuban ini adalah penelitian kualitatif dengan pendekatan sejarah, arkeologi, dan sosiologi. Data-data yang dibutuhkan dalam penelitian ini dikumpulkan dengan menggunakan metode observasi (pengamatan) dan wawancara.",
      "image": "https://disbudporapar.tubankab.go.id/files/2020-07/073129-agungtuban1.jpg" },
     
     { "id": 8, 
@@ -65,6 +69,7 @@
      "rating": "4.2",
      "address": "Jl. Raya Rengel No.155, Dusun Purboyo Mayang, Rengel, Kec. Rengel, Kabupaten Tuban, Jawa Timur 62371",
      "phone": "0813-3532-7319",
+      "deskription": "Goa Ngerong adalah suatu gua dan tempat wisata di Kecamatan Rengel, Tuban, Jawa Timur. Di tempat tersebut para pengunjung dapat melihat ribuan ikan di sungai yang airnya sangat jernih. Biasanya para pengunjung memberikan biji kapuk randu ke dalam sungai agar ikan-ikan tersebut mengapung untuk berebut makanan.",
      "image": "https://huluhilir.com/wp-content/uploads/2022/03/gua-ngerong.jpg" }
   ] 
 }
